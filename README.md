@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrisA-1
+- 👋 Hi, I’m Kris
 - 👀 I’m interested in all things data. Specifically Azure, big data, SQL and BI
 - 🌱 I’m currently learning Azure architecture, datavricks and python.
 
